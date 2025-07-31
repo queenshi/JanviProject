@@ -1,1 +1,1 @@
-# JanviProject
+# Indian-Virtual-Tour
